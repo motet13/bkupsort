@@ -1,0 +1,4 @@
+.vscode/**
+*.bat
+bkup/__pycache__/**
+bkup/config.json
